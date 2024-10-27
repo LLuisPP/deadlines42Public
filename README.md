@@ -2,13 +2,14 @@
 <img src="https://github.com/user-attachments/assets/62ec13c2-45e4-4f2a-a958-b75267e896c8">
 
 
+
 <table>
   <tr>
     <td colspan="3" align="center"><h3> 💀 Deadlines 42 ⌛ </h3></td>
   </tr>
   <tr>
-    <td align="center"><img width="400" src="https://github.com/user-attachments/assets/4f6d0f58-ab57-497a-8dfc-db3220d9aa1f"></td>
-    <td align="center"><img width="445" src="https://github.com/user-attachments/assets/583b7d65-9acf-42ce-910c-cf6c09469415"></td>
+    <td align="center"><img width="400" src="https://github.com/user-attachments/assets/b21e5533-5f58-4a3f-9652-fea01fc08059"></td>
+    <td align="center"><img width="445" src="https://github.com/user-attachments/assets/69c66ca2-58ca-4d3b-a68e-9f3dac2147d4"></td>
   </tr>
 </table>
 
