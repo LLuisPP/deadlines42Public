@@ -59,13 +59,13 @@ I’ll try to keep it updated, but any help is welcome if you’re interested.
 Clone this repository:
   
 `````
-git clone <repository address> <folder name>
+git clone https://github.com/LLuisPP/deadlines42Public.git deadlines42
 `````
 
 Navigate to cloned folder:
 
 `````
-cd <folder name>
+cd deadlines42
 `````
 Compile program in your terminal:
   
