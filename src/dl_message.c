@@ -6,7 +6,7 @@
 /*   By: lprieto- <lprieto-@student.42barcelona.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/11 11:00:14 by lprieto-          #+#    #+#             */
-/*   Updated: 2024/10/27 08:18:17 by lprieto-         ###   ########.fr       */
+/*   Updated: 2024/10/27 09:26:48 by lprieto-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,10 +21,10 @@ void	handling(void)
 	printf(" ║                      ⇓          ⇓         ⇓         ⇓     ║\n");
 	printf(" ║     ▄██▀ █▀██       prm1       prm2      prm3      prm4   ║\n");
 	printf(" ║   ▄██▀   ▄█▀▄        ⇓          ⇓         ⇓         ⇓     ║\n");
-	printf(" ║   ▀▀▀▀██ ▀▀▀▀     YY/MM/DD    0 - 6     8 - 24     > 0    ║\n");
+	printf(" ║   ▀▀▀▀██ ▀▀▀▀     YY-MM-DD    0 - 6     8 - 24     > 0    ║\n");
 	printf(" ║       ▀▀                                                  ║\n");
-	printf(" ║     Exs:    ./deadline42  23/09/12  4  22                 ║\n");
-	printf(" ║             ./deadline42  24/04/26  2  8  12              ║\n");
+	printf(" ║     Exs:    ./deadline42  23-09-12  4  22                 ║\n");
+	printf(" ║             ./deadline42  24-04-26  2  8  12              ║\n");
 	printf(" ║                                                           ║\n");
 	printf(" ╚═══════════════════════════════════════════════════════════╝\n\n");
 }
