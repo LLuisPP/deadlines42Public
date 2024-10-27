@@ -80,6 +80,9 @@ Use correct syntax, for example:
 `````
 ./deadlines 22-09-15 5 18
 `````
+<div align="center">
+<a href="#"><img width="460" src="https://github.com/user-attachments/assets/405b1785-bea5-42da-945f-d0f41639c927"></a>
+</div>
 
 Handle instructions:
 <table>
