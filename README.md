@@ -19,7 +19,7 @@
 
 <div text-align="left">
 
-`````
+
 You’ve probably had to calculate the days you have for each milestone and even after asking
 around, you still might not have everything clear.
 Well, that’s what happened to me, so I decided to create a pace-date calculator to know
@@ -35,7 +35,7 @@ The information you get is only a guideline based on the kickoff date you input,
 not match your actual times, especially if you’ve gone through a freeze, bonus days, etc...
 
 I’ll try to keep it updated, but any help is welcome if you’re interested.
-`````
+
 
 <h2>💻 Technologies Used</h2>
 
