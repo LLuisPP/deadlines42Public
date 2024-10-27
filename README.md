@@ -1,19 +1,21 @@
+
 <div align="center">
-<img src="https://github.com/user-attachments/assets/62ec13c2-45e4-4f2a-a958-b75267e896c8">
-
-
-
 <table>
   <tr>
-    <td colspan="3" align="center"><h3> 💀 Deadlines 42 ⌛ </h3></td>
+    <td colspan="3" align="center"><a href="#"><img src="https://github.com/user-attachments/assets/62ec13c2-45e4-4f2a-a958-b75267e896c8"></a></td>
   </tr>
   <tr>
-    <td align="center"><img width="400" src="https://github.com/user-attachments/assets/b21e5533-5f58-4a3f-9652-fea01fc08059"></td>
-    <td align="center"><img width="445" src="https://github.com/user-attachments/assets/69c66ca2-58ca-4d3b-a68e-9f3dac2147d4"></td>
+    <td align="center"><a href="#"><img width="400" src="https://github.com/user-attachments/assets/b21e5533-5f58-4a3f-9652-fea01fc08059"></a></td>
+    <td align="center"><a href="#"><img width="400" src="https://github.com/user-attachments/assets/69c66ca2-58ca-4d3b-a68e-9f3dac2147d4"></a></td>
   </tr>
 </table>
 
 </div>
+
+> [!WARNING]
+> Developed for unix OS.<br>
+> This software is NOT official from 42 Network, use it at your own risk.<br>
+> For informational purposes only.
 
 <div text-align="left">
 
@@ -34,6 +36,66 @@ not match your actual times, especially if you’ve gone through a freeze, bonus
 
 I’ll try to keep it updated, but any help is welcome if you’re interested.
 `````
+
+<h2>💻 Technologies Used</h2>
+
+<div align="center">
+<table>
+  <tr align="center">
+      <td>
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="35" height="35"/></a><br>C
+      </td>
+      <td>
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg" alt="CSS3" width="35" height="35"/></a><br>Unix<br>
+      </td>
+  </tr>
+</table>
+
+</div>
+
+<h2>🛠️ Installation</h2>
+
+<div align="left">
+Clone this repository:
+  
+`````
+git clone <repository address> <folder name>
+`````
+
+Navigate to cloned folder:
+
+`````
+cd <folder name>
+`````
+Compile program in your terminal:
+  
+`````
+make
+`````
+</div>
+
+<h2>▶️ Execution</h2>
+
+Use correct syntax, for example:
+`````
+./deadlines 22-09-15 5 18
+`````
+
+
+Handle instructions:
+<table>
+  <tr>
+    <td align="center"><a href="#"><img width="460" src="https://github.com/user-attachments/assets/ea5d6c31-64a7-4c58-80ee-97e08a58dc83"></a></td>
+    <td align="center"><a href="#"><img width="380" src="https://github.com/user-attachments/assets/ce79f21b-d5d7-4998-b2cf-5d8b267cc53d"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="#"><img width="400" src="https://github.com/user-attachments/assets/a238cc0a-55f3-4d44-9363-ff11c27b2e18"></a></td>
+    <td align="center"><a href="#"><img width="445" src="https://github.com/user-attachments/assets/0dbf1948-b9eb-4f5f-882c-d7b969e639a6"></a></td>
+  </tr>
+</table>
+</div>
+
+  
 <div align="center">
 <h3>42 [pace system calculation] day distribution:</h3>
   
@@ -47,20 +109,6 @@ I’ll try to keep it updated, but any help is welcome if you’re interested.
 |5|71|107|134|162|197|197|
 |6|32|47|59|70|86|86|
 ||(244 d)|(366 d)|(458 d)|(549 d)|(671 d)|(732 d)|
-</div>
-
-<div align="center">
-<h3>42 [bonus days given] when complete a milestone:</h3>
-  
-| milestone | mstone complete | bonus_days |
-|---|---|---|
-|0|2|7|
-|1|4|3+3+2|
-|2|3|2+2+2|
-|3|6|-|
-|4|9|-|
-|5|12|-|
-|6|-|-|
 </div>
 
 <div align="center">
@@ -78,3 +126,17 @@ I’ll try to keep it updated, but any help is welcome if you’re interested.
 </div>
 
 </div>
+
+> [!TIP]
+> Key concepts: `timestamp` `leap_year` `epoch`
+
+<h2>🤝 Contributions</h2>
+
+> [!NOTE]
+> If you find an error and you want to contribute:
+ 
+Fork the repository  
+- Create a pull request
+- Create a new branch: `git checkout -b ErrorBug`
+- Make your changes and commit them: `git commit -m 'Error description'`
+- Push the changes to your branch: `git push origin ErrorBug`
