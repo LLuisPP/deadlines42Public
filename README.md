@@ -81,11 +81,10 @@ Use correct syntax, for example:
 ./deadlines 22-09-15 5 18
 `````
 
-
 Handle instructions:
 <table>
   <tr>
-    <td align="center"><a href="#"><img width="460" src="https://github.com/user-attachments/assets/ea5d6c31-64a7-4c58-80ee-97e08a58dc83"></a></td>
+    <td align="center"><a href="#"><img width="460" src="https://github.com/user-attachments/assets/ca397149-1633-42e0-881d-b6bb65cf1764"></a></td>
     <td align="center"><a href="#"><img width="380" src="https://github.com/user-attachments/assets/ce79f21b-d5d7-4998-b2cf-5d8b267cc53d"></a></td>
   </tr>
   <tr>
